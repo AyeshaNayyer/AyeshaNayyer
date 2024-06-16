@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/tinkoff-ai/.github/main/profile/tinkoff_github_cover.webp)]
+![MasterHead](https://raw.githubusercontent.com/tinkoff-ai/.github/main/profile/tinkoff_github_cover.webp)
 <h1 align="center">Hi 👋, I'm Ayesha Nayyer</h1>
 <h3 align="center">Data Detective | Solving Mysteries with AI/ML</h3>
 
