@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ayesha Nayyer</h1>
 <h3 align="center">Data Detective | Solving Mysteries with AI/ML</h3>
 
-- 🔭 I’m currently working on [Event-planner MERN website](https://github.com/AyeshaNayyer/shaadi)
+- 🔭 I’m currently working on [Medical-Chatbot](https://github.com/AyeshaNayyer/langchain-medical-bot)
 
 - 🌱 I’m currently learning **MLops**
 
