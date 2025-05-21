@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Engineering Concepts**
 
-- 💬 Ask me about **BI and Data Warehousing Concepts**
+- 💬 Ask me about **BI, EDA and Data Warehousing Concepts**
 
 - 📫 How to reach me **ayeshanayyer27@gmail.com**
 
