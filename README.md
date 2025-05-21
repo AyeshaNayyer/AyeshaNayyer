@@ -1,12 +1,12 @@
 ![MasterHead](https://raw.githubusercontent.com/tinkoff-ai/.github/main/profile/tinkoff_github_cover.webp)
 <h1 align="center">Hi 👋, I'm Ayesha Nayyer</h1>
-<h3 align="center">Data Detective | Solving Mysteries with AI/ML</h3>
 
-- 🔭 I’m currently working on [Medical-Chatbot](https://github.com/AyeshaNayyer/langchain-medical-bot)
 
-- 🌱 I’m currently learning **MLops**
+- 🔭 I’m currently working on [E-commerce ETL Pipeline](https://github.com/AyeshaNayyer/ubuntu)
 
-- 💬 Ask me about **Feature Engineering, Data Manipulation and Visualization, and Statistical Testing**
+- 🌱 I’m currently learning **Data Engineering Concepts**
+
+- 💬 Ask me about **BI and Data Warehousing Concepts**
 
 - 📫 How to reach me **ayeshanayyer27@gmail.com**
 
